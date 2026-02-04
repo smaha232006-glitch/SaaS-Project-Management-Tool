@@ -1,0 +1,9 @@
+
+{
+  "name": "NexusProject - Enterprise SaaS PM",
+  "description": "A high-performance project management tool with Kanban boards, real-time collaboration simulation, role-based access control, and Gemini-powered smart insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
